@@ -2,6 +2,13 @@
 
 metpsr.py file contains the class for minimum energy calculation. Define appropriate metrics in the robot parameters to generate a cost_map.pkl file according to your problem. 
 
+## Install Dependencies
+```
+pip install scipy
+pip install matplotlib
+pip install npmath
+```
+
 ## Path Planning
 For all the path planning algorithms, use
 ```
