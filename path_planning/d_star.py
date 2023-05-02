@@ -1,12 +1,3 @@
-"""
-
-D* grid planning
-
-author: Nirnay Roy
-
-See Wikipedia article (https://en.wikipedia.org/wiki/D*)
-
-"""
 import math
 
 from sys import maxsize
